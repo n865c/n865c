@@ -12,21 +12,15 @@ Public university in Delhi
 - 📝 I studied at Maharaja Agrasen Institute Of Technology
 - 📝 I am learing web development,DSA and python
 - 💬 Ask me about: Web development and DSA
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/n865c?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+-
+<a href="https://github.com/n865c?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
- 
-<!-- <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Nancy" />
-</p> -->
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
-</p> -->
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ## Technologies currently using
 
@@ -53,19 +47,7 @@ Public university in Delhi
 
  </div>
  
-<br><br><br><br>
-
-<!-- <p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br> -->
-
-<!-- <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="nancy" />
- </a>
-</p> -->
-
+<br><br>
 
 [linkedin]: https://www.linkedin.com/in/nancy-kumari-3148a01b8/
 
