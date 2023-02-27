@@ -43,5 +43,6 @@ Public university in Delhi
 
 [linkedin]: https://www.linkedin.com/in/nancy-kumari-3148a01b8/
 
-------
+
+## Hacktoberfest Badges 2022
 [![An image of @nancy0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nancy0)](https://holopin.io/@nancy0)
