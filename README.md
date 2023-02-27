@@ -12,18 +12,10 @@ Public university in Delhi
 - 📝 I studied at Maharaja Agrasen Institute Of Technology
 - 📝 I am learing web development,DSA and python
 - 💬 Ask me about: Web development and DSA
--
-<a href="https://github.com/n865c?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
-
-<br><br><br><br><br><br>
+<br><br><br>
 
 ## Technologies currently using
-
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
