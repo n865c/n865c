@@ -5,7 +5,6 @@
 <br />
 
 - 🌱 &nbsp;I'm currently pursuing for Btech in CSE at Guru Gobind Singh Indraprastha University
-Public university in Delhi
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **nancykumari620@gmail.com**
 - 📝 I studied at Maharaja Agrasen Institute Of Technology
