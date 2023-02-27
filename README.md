@@ -1,7 +1,7 @@
  
 ### Hi there 👋 I am Nancy Kumari
 
-> I am a hardworking individual who is dedicated towards his goals.
+> I am a hardworking individual who is dedicated towards her goals.
 <br />
 
 - 🌱 &nbsp;I'm currently pursuing for Btech in CSE at Guru Gobind Singh Indraprastha University
