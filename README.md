@@ -8,7 +8,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **nancykumari620@gmail.com**
 - 📝 I studied at Maharaja Agrasen Institute Of Technology
-- 📝 I am learing web development,DSA and python
+- 📝 I am interested web development,DSA and python
 - 💬 Ask me about: Web development and DSA
 
 <br><br><br>
