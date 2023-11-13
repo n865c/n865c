@@ -8,8 +8,8 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **nancykumari620@gmail.com**
 - 📝 I studied at Maharaja Agrasen Institute Of Technology
-- 📝 I am interested web development,DSA and python
-- 💬 Ask me about: Web development and DSA
+- 📝 I am interested web, flutter development and DSA in C++
+- 💬 Ask me about: Web, flutter development and DSA
 
 <br><br><br>
 
@@ -23,7 +23,7 @@
   <img  alt="c" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- 
+ <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 ## Tools currently using
