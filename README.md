@@ -4,7 +4,7 @@
 > I am a hardworking individual who is dedicated towards her goals.
 <br />
 
-- 🌱 &nbsp;I'm currently pursuing for Btech in CSE at Guru Gobind Singh Indraprastha University
+- 🌱 &nbsp;Recently I completed my Btech in CSE at Guru Gobind Singh Indraprastha University 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **nancykumari620@gmail.com**
 - 📝 I studied at Maharaja Agrasen Institute Of Technology
